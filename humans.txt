@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Renato Franco   renato@franco.treinamento
 
 # THANKS
 
